@@ -1,6 +1,6 @@
 <metadata>
   <groupId>net.sf.jsfcomp.ext</groupId>
-  <artifactId>onload</artifactId>
+  <artifactId>jsfExt</artifactId>
   <versioning>
     <versions>
       <version>0.9</version>
